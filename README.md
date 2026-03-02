@@ -1,7 +1,7 @@
 🏋️ Fitness Tracker Application (Java Mini Project)
 📌 Project Overview
 
-The Fitness Tracker Application is a Java-based desktop application built using Swing GUI.
+The Fitness Tracker Application is a purely Java-based desktop application built using Swing GUI.
 It allows users to track cardio and strength workouts, calculate calories burned, view workout history, and generate summary reports.
 
 This project demonstrates core Object-Oriented Programming (OOP) concepts, exception handling, multithreading, collections, and GUI development in Java.
